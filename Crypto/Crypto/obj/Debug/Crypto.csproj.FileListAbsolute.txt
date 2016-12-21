@@ -1,0 +1,12 @@
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\bin\Debug\Crypto.exe.config
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\bin\Debug\Crypto.exe
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\bin\Debug\Crypto.pdb
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\obj\Debug\Crypto.csprojResolveAssemblyReference.cache
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\obj\Debug\Crypto.main.resources
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\obj\Debug\Crypto.Properties.Resources.resources
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\obj\Debug\Crypto.csproj.GenerateResource.Cache
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\obj\Debug\Crypto.exe
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\obj\Debug\Crypto.pdb
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\bin\Debug\DES_1.dll
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\bin\Debug\RSA_Lib.dll
+c:\users\татьяна\documents\visual studio 2012\Projects\Crypto\Crypto\bin\Debug\Sha2.dll
