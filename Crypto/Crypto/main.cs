@@ -39,8 +39,16 @@ namespace Crypto
             byte[] bufRead2 = new byte[encryptedData.Length];
             encryptedData.Position = 0;
             encryptedData.Read(bufRead2, 0, Convert.ToInt32(encryptedData.Length));
-            encrypt = Convert.ToBase64String(bufRead2);
-            textBox2.Text = encrypt;
+            encrypt = BitConverter.ToString(bufRead2);
+            //encrypt = Convert.ToBase64String(bufRead2);
+            char[] chars = encrypt.ToCharArray();
+            StringBuilder stringBuilder = new StringBuilder();
+            foreach (char c in chars)
+            {
+                stringBuilder.Append(((Int16)c).ToString("x"));
+            }
+            String textAsHex = stringBuilder.ToString();
+            textBox2.Text = textAsHex;
             byte[] bufRead1 = new byte[encryptedData.Length];
             decryptedData.Position = 0;
             decryptedData.Read(bufRead1, 0, Convert.ToInt32(decryptedData.Length));
@@ -104,6 +112,7 @@ namespace Crypto
             encryptedData.Position = 0;
             encryptedData.Read(bufRead2, 0, Convert.ToInt32(encryptedData.Length));
             encrypt1 = System.Text.Encoding.Default.GetString(bufRead2);
+            textBox12.Text = s;
             textBox10.Text = "Сообщение подписано";
             textBox10.BackColor = Color.Green;
 
@@ -122,6 +131,11 @@ namespace Crypto
                 textBox11.Text = "Подпись неверна";
               
             }
+
+        }
+
+        private void textBox12_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

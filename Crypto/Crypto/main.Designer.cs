@@ -46,18 +46,20 @@
             this.label4 = new System.Windows.Forms.Label();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
-            this.textBox8 = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.label9 = new System.Windows.Forms.Label();
-            this.button4 = new System.Windows.Forms.Button();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.button5 = new System.Windows.Forms.Button();
+            this.textBox8 = new System.Windows.Forms.TextBox();
+            this.button3 = new System.Windows.Forms.Button();
+            this.label7 = new System.Windows.Forms.Label();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.tabPage4 = new System.Windows.Forms.TabPage();
             this.textBox11 = new System.Windows.Forms.TextBox();
+            this.button5 = new System.Windows.Forms.Button();
+            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.button4 = new System.Windows.Forms.Button();
+            this.label9 = new System.Windows.Forms.Label();
+            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
             this.TacControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -243,8 +245,52 @@
             this.tabPage3.Text = "SHA-2";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(8, 140);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(28, 13);
+            this.label8.TabIndex = 4;
+            this.label8.Text = "Хеш";
+            // 
+            // textBox8
+            // 
+            this.textBox8.Location = new System.Drawing.Point(11, 156);
+            this.textBox8.Name = "textBox8";
+            this.textBox8.Size = new System.Drawing.Size(468, 20);
+            this.textBox8.TabIndex = 3;
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(11, 60);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(106, 45);
+            this.button3.TabIndex = 2;
+            this.button3.Text = "Найти хеш";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(8, 18);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(109, 13);
+            this.label7.TabIndex = 1;
+            this.label7.Text = "Введите сообщение";
+            // 
+            // textBox7
+            // 
+            this.textBox7.Location = new System.Drawing.Point(11, 34);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(468, 20);
+            this.textBox7.TabIndex = 0;
+            // 
             // tabPage4
             // 
+            this.tabPage4.Controls.Add(this.label10);
+            this.tabPage4.Controls.Add(this.textBox12);
             this.tabPage4.Controls.Add(this.textBox11);
             this.tabPage4.Controls.Add(this.button5);
             this.tabPage4.Controls.Add(this.textBox10);
@@ -259,63 +305,31 @@
             this.tabPage4.Text = "ЭЦП";
             this.tabPage4.UseVisualStyleBackColor = true;
             // 
-            // textBox7
+            // textBox11
             // 
-            this.textBox7.Location = new System.Drawing.Point(11, 34);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(468, 20);
-            this.textBox7.TabIndex = 0;
+            this.textBox11.Location = new System.Drawing.Point(225, 146);
+            this.textBox11.Name = "textBox11";
+            this.textBox11.ReadOnly = true;
+            this.textBox11.Size = new System.Drawing.Size(172, 20);
+            this.textBox11.TabIndex = 5;
             // 
-            // label7
+            // button5
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(8, 18);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(109, 13);
-            this.label7.TabIndex = 1;
-            this.label7.Text = "Введите сообщение";
+            this.button5.Location = new System.Drawing.Point(225, 80);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(172, 46);
+            this.button5.TabIndex = 4;
+            this.button5.Text = "Проверить подпись";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
-            // button3
+            // textBox10
             // 
-            this.button3.Location = new System.Drawing.Point(11, 60);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(106, 45);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "Найти хеш";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // textBox8
-            // 
-            this.textBox8.Location = new System.Drawing.Point(11, 156);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(468, 20);
-            this.textBox8.TabIndex = 3;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(8, 140);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(28, 13);
-            this.label8.TabIndex = 4;
-            this.label8.Text = "Хеш";
-            // 
-            // textBox9
-            // 
-            this.textBox9.Location = new System.Drawing.Point(10, 35);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(387, 20);
-            this.textBox9.TabIndex = 0;
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(7, 19);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(109, 13);
-            this.label9.TabIndex = 1;
-            this.label9.Text = "Введите сообщение";
+            this.textBox10.Location = new System.Drawing.Point(10, 146);
+            this.textBox10.Name = "textBox10";
+            this.textBox10.ReadOnly = true;
+            this.textBox10.Size = new System.Drawing.Size(163, 20);
+            this.textBox10.TabIndex = 3;
             // 
             // button4
             // 
@@ -328,31 +342,38 @@
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
-            // textBox10
+            // label9
             // 
-            this.textBox10.Location = new System.Drawing.Point(10, 146);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.ReadOnly = true;
-            this.textBox10.Size = new System.Drawing.Size(163, 20);
-            this.textBox10.TabIndex = 3;
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(7, 19);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(109, 13);
+            this.label9.TabIndex = 1;
+            this.label9.Text = "Введите сообщение";
             // 
-            // button5
+            // textBox9
             // 
-            this.button5.Location = new System.Drawing.Point(225, 80);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(172, 46);
-            this.button5.TabIndex = 4;
-            this.button5.Text = "Проверить подпись";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
+            this.textBox9.Location = new System.Drawing.Point(10, 35);
+            this.textBox9.Name = "textBox9";
+            this.textBox9.Size = new System.Drawing.Size(502, 20);
+            this.textBox9.TabIndex = 0;
             // 
-            // textBox11
+            // textBox12
             // 
-            this.textBox11.Location = new System.Drawing.Point(225, 146);
-            this.textBox11.Name = "textBox11";
-            this.textBox11.ReadOnly = true;
-            this.textBox11.Size = new System.Drawing.Size(172, 20);
-            this.textBox11.TabIndex = 5;
+            this.textBox12.Location = new System.Drawing.Point(10, 215);
+            this.textBox12.Name = "textBox12";
+            this.textBox12.Size = new System.Drawing.Size(502, 20);
+            this.textBox12.TabIndex = 6;
+            this.textBox12.TextChanged += new System.EventHandler(this.textBox12_TextChanged);
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(10, 199);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(30, 13);
+            this.label10.TabIndex = 7;
+            this.label10.Text = "ЭЦП";
             // 
             // main
             // 
@@ -407,6 +428,8 @@
         private System.Windows.Forms.TextBox textBox10;
         private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.TextBox textBox12;
 
     }
 }
