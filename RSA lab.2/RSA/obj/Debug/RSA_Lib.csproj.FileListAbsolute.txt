@@ -1,0 +1,5 @@
+C:\Users\Татьяна\Desktop\RSA вер1\RSA\bin\Debug\RSA.dll
+C:\Users\Татьяна\Desktop\RSA вер1\RSA\bin\Debug\RSA.pdb
+C:\Users\Татьяна\Desktop\RSA вер1\RSA\obj\Debug\RSA.dll
+C:\Users\Татьяна\Desktop\RSA вер1\RSA\obj\Debug\RSA.pdb
+C:\Users\Татьяна\Desktop\RSA вер1\RSA\obj\Debug\RSA_Lib.csprojResolveAssemblyReference.cache

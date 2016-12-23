@@ -1,0 +1,10 @@
+c:\users\татьяна\documents\visual studio 2012\Projects\RSA\RSA\bin\Debug\RSA.dll
+c:\users\татьяна\documents\visual studio 2012\Projects\RSA\RSA\bin\Debug\RSA.pdb
+c:\users\татьяна\documents\visual studio 2012\Projects\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+c:\users\татьяна\documents\visual studio 2012\Projects\RSA\RSA\obj\Debug\RSA.dll
+c:\users\татьяна\documents\visual studio 2012\Projects\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\Татьяна\Desktop\RSA вер1\RSA\bin\Debug\RSA.dll
+C:\Users\Татьяна\Desktop\RSA вер1\RSA\bin\Debug\RSA.pdb
+C:\Users\Татьяна\Desktop\RSA вер1\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\Татьяна\Desktop\RSA вер1\RSA\obj\Debug\RSA.dll
+C:\Users\Татьяна\Desktop\RSA вер1\RSA\obj\Debug\RSA.pdb
