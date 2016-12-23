@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesLibrary", "DesLibrary\DesLibrary.csproj", "{4C21496D-EAD0-4666-ABED-FB9853B88FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDes", "TestDes\TestDes.csproj", "{779DE715-7B92-47D0-9528-359E85EFBA17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C21496D-EAD0-4666-ABED-FB9853B88FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C21496D-EAD0-4666-ABED-FB9853B88FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C21496D-EAD0-4666-ABED-FB9853B88FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C21496D-EAD0-4666-ABED-FB9853B88FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779DE715-7B92-47D0-9528-359E85EFBA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779DE715-7B92-47D0-9528-359E85EFBA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779DE715-7B92-47D0-9528-359E85EFBA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779DE715-7B92-47D0-9528-359E85EFBA17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

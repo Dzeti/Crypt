@@ -1,0 +1,5 @@
+c:\users\татьяна\documents\visual studio 2012\Projects\DesLibrary\DesLibrary\obj\Debug\DesLibrary.csprojResolveAssemblyReference.cache
+c:\users\татьяна\documents\visual studio 2012\Projects\DesLibrary\DesLibrary\bin\Debug\DesLibrary.dll
+c:\users\татьяна\documents\visual studio 2012\Projects\DesLibrary\DesLibrary\bin\Debug\DesLibrary.pdb
+c:\users\татьяна\documents\visual studio 2012\Projects\DesLibrary\DesLibrary\obj\Debug\DesLibrary.dll
+c:\users\татьяна\documents\visual studio 2012\Projects\DesLibrary\DesLibrary\obj\Debug\DesLibrary.pdb
