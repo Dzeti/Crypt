@@ -1,0 +1,8 @@
+C:\Users\Татьяна\Documents\Visual Studio 2012\Projects\Sign\SignTest\bin\Debug\SignTest.dll
+C:\Users\Татьяна\Documents\Visual Studio 2012\Projects\Sign\SignTest\bin\Debug\SignTest.pdb
+C:\Users\Татьяна\Documents\Visual Studio 2012\Projects\Sign\SignTest\bin\Debug\Sign.dll
+C:\Users\Татьяна\Documents\Visual Studio 2012\Projects\Sign\SignTest\bin\Debug\Sha2.dll
+C:\Users\Татьяна\Documents\Visual Studio 2012\Projects\Sign\SignTest\bin\Debug\Sign.pdb
+C:\Users\Татьяна\Documents\Visual Studio 2012\Projects\Sign\SignTest\obj\Debug\SignTest.csprojResolveAssemblyReference.cache
+C:\Users\Татьяна\Documents\Visual Studio 2012\Projects\Sign\SignTest\obj\Debug\SignTest.dll
+C:\Users\Татьяна\Documents\Visual Studio 2012\Projects\Sign\SignTest\obj\Debug\SignTest.pdb
