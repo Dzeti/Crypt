@@ -1,0 +1,5 @@
+c:\users\татьяна\documents\visual studio 2012\Projects\Sha2\Sha2\bin\Debug\Sha2.dll
+c:\users\татьяна\documents\visual studio 2012\Projects\Sha2\Sha2\bin\Debug\Sha2.pdb
+c:\users\татьяна\documents\visual studio 2012\Projects\Sha2\Sha2\obj\Debug\Sha2.csprojResolveAssemblyReference.cache
+c:\users\татьяна\documents\visual studio 2012\Projects\Sha2\Sha2\obj\Debug\Sha2.dll
+c:\users\татьяна\documents\visual studio 2012\Projects\Sha2\Sha2\obj\Debug\Sha2.pdb

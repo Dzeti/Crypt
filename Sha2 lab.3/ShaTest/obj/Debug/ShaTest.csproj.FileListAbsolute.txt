@@ -1,0 +1,7 @@
+c:\Users\Татьяна\documents\visual studio 2012\Projects\Sha2\ShaTest\bin\Debug\ShaTest.dll
+c:\Users\Татьяна\documents\visual studio 2012\Projects\Sha2\ShaTest\bin\Debug\ShaTest.pdb
+c:\Users\Татьяна\documents\visual studio 2012\Projects\Sha2\ShaTest\bin\Debug\Sha2.dll
+c:\Users\Татьяна\documents\visual studio 2012\Projects\Sha2\ShaTest\bin\Debug\Sha2.pdb
+c:\Users\Татьяна\documents\visual studio 2012\Projects\Sha2\ShaTest\obj\Debug\ShaTest.csprojResolveAssemblyReference.cache
+c:\Users\Татьяна\documents\visual studio 2012\Projects\Sha2\ShaTest\obj\Debug\ShaTest.dll
+c:\Users\Татьяна\documents\visual studio 2012\Projects\Sha2\ShaTest\obj\Debug\ShaTest.pdb
